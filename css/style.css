@@ -1,0 +1,143 @@
+/*--------------important css------------*/
+*{ 
+	margin:0;
+	padding:0;
+	outline:0;
+	}
+a{
+	text-decoration:blink;
+	}
+ul li{
+	list-style-type:none;
+	}
+.clr{
+	clear:both;
+	}
+/*-------------main-class----end--------*/
+/*-----------four--full--wrapper-------start--------*/
+.sulaiman{
+	margin-top:-20px;
+	}
+.topttoopp{
+	border-bottom:10px;
+	}
+.bgs{
+	background:url(../images/background-1.jpg) center no-repeat fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	padding: 50px 0;;
+	}
+.pragraph{
+	font-size:20px;
+	text-align:center;
+	color:#FFF;
+	font:menubar;
+	}
+.description{
+    margin-bottom: 100px;
+	}
+/*----------four--full--wrapper-------end--------*/
+.my-logo{
+	margin-top: -33px
+	}
+.alex{
+	border-top-color:#6F3;
+	
+}
+.well-come{
+	text-align: center;
+    text-transform: capitalize;
+    color: #FFF;
+    margin-top: 100px;
+	}
+.freelance{
+	padding: 0px 101px;
+    float: left;	
+	}
+.card{
+	color:#000;
+	}
+.better{
+    font-size: 22px;
+	color:#FFF;
+		}
+.lobust{
+	margin-top: 46px;
+	}
+.why{
+    text-transform: capitalize;
+	color:#FFF;
+}
+.aabout{
+	background:#000;
+	}
+.three-color{
+	background-color:#0e0e0e;
+}
+.threep{
+	color:#FFF;
+	}
+.laste{
+      background-color:#000;
+	  margin-top:1px;
+	}	
+.facebooks{
+    height: 50%;
+    width: 86%;
+	margin-top: 38px
+	}
+.twwiter{
+    height: 50%;
+    width: 85%;
+	 margin-top: 38px;
+		}
+.qrcodes {
+	margin-top: 13px;
+    height: 50%;
+    width: 49%;
+	}	
+.iambtr{
+	background:url(../images/background-2.jpg) center no-repeat fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	padding: 50px 0;;
+	}
+.Copyright{
+	margin-top: 18px;
+    color: #FFFFFF;
+    font-size: 18px;
+	}	
+	
+.social{
+	font-size: 110px;
+    color: #FFF;
+    margin-left: 48px;	}	
+	
+.flowe{
+	margin-top:50px;
+	}
+	
+	
+	
+	
+
+	
+.list-services{
+	color:#FFF;
+	}
+.what{
+	color:#C30;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
